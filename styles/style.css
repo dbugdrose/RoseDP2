@@ -37,3 +37,17 @@ max-width: 600px;
 .card-img-top {
     max-height: 180px;
 }
+
+.card {
+        border: 5px solid #BFACC5;
+        background-color: #BFACC5;
+}
+
+.card-body{
+    background-color: #ffffff;
+    border: 5px solid #ffffff;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    height: 180px;
+
+}
