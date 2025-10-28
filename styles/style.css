@@ -2,12 +2,16 @@ body {
     font-family:Georgia, 'Times New Roman', Times, serif;
     background-color:#f9ecff;
     color: #2f2b4a; 
+    background-image: url(/assets/lavender-flowers-floral-pattern.jpg);
+    background-color: #BFACC5;
+    background-repeat: repeat;
+    background-size: 10%;
 }
 .header-img {
     max-width: 600px;
     margin-top: 20px;
     border-radius: 20px;
-    border: 5px solid #BFACC5;
+    border: 5px solid #583184;
 
 }
 
@@ -15,7 +19,7 @@ h1, h2 {
     margin: 20px;
     text-align: center;
     font-weight: bold;
-    color: #360554;
+    color: #29063f;
 }
 .outerStyle {
 max-width: 600px;
@@ -24,7 +28,7 @@ max-width: 600px;
 .innerStyle {
     border-radius: 20px;
     background-color: #fbf2ff;
-    border: 5px solid #BFACC5;
+    border: 5px solid #583184;
     padding: 20px;
 }
 
