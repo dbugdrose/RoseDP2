@@ -7,6 +7,23 @@ body {
     background-repeat: repeat;
     background-size: 5%;
 }
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px #583184;
+    background-color: #BFACC5;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color:#583184;
+    -webkit-box-shadow: inset 0 0 6px rgba(15, 15, 15, 0.7);
+}
+
 .header-img {
     max-width: 600px;
     margin-top: 20px;
@@ -24,11 +41,9 @@ h1, h2 {
 a {
     color: #29063f;
 }
-.outerStyle {
-max-width: 600px;
-}
 
 .innerStyle {
+    max-width: 600px;
     border-radius: 20px;
     background-color: #fbf2ff;
     border: 2px solid #583184;
