@@ -43,7 +43,7 @@ max-width: 600px;
 }
 
 .card {
-        margin: 20px;
+        margin-top: 20px;
         border: 2px solid #583184;
         background-color: #583184;
 }
