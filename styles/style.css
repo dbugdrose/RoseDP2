@@ -5,7 +5,7 @@ body {
     background-image: url(/assets/lavender-flowers-floral-pattern.jpg);
     background-color: #BFACC5;
     background-repeat: repeat;
-    background-size: 10%;
+    background-size: 5%;
 }
 .header-img {
     max-width: 600px;
@@ -19,6 +19,9 @@ h1, h2 {
     margin: 20px;
     text-align: center;
     font-weight: bold;
+    color: #29063f;
+}
+a, a:hover {
     color: #29063f;
 }
 .outerStyle {
@@ -49,8 +52,8 @@ max-width: 600px;
 }
 
 .card-body{
-    background-color: #ffffff;
-    border: 2px solid #ffffff;
+    background-color: #fbf2ff;
+    border: 2px solid #fbf2ff;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
     height: 180px;
