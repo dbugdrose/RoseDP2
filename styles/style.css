@@ -21,7 +21,7 @@ h1, h2 {
     font-weight: bold;
     color: #29063f;
 }
-a, a:hover {
+a {
     color: #29063f;
 }
 .outerStyle {
@@ -58,4 +58,7 @@ max-width: 600px;
     border-bottom-right-radius: 5px;
     height: 180px;
 
+}
+.navbar {
+    background-color: #E3D7E7;
 }
